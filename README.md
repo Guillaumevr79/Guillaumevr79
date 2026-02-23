@@ -1,5 +1,9 @@
-# 💫 About Me:
-🎓 AI & Big Data Engineering Student @ ESEO | 📊 Data Analyst & ETL Dev @ Société Générale | 🤖 Passionate about ML, Deep Learning & Data Engineering | 🔍 Open to opportunities
+
+# Hey there, I'm Guillaume 💫:
+🎓 AI & Big Data Engineering Student @ ESEO
+📊 Data Analyst & ETL Dev @ Société Générale
+🤖 Passionate about ML, Deep Learning & Data Engineering
+🔍 Open to opportunities
 
 
 # 💻 Tech Stack:
