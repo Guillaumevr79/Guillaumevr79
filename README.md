@@ -1,5 +1,5 @@
 
-# Hey there, I'm Guillaume 💫:
+# Hey there, I'm Guillaume 💫 :
 🎓 AI & Big Data Engineering Student @ ESEO
 📊 Data Analyst & ETL Dev @ Société Générale
 🤖 Passionate about ML, Deep Learning & Data Engineering
