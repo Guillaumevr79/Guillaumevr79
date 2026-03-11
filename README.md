@@ -23,8 +23,8 @@ Hi, I'm Guillaume 👋<br>🎓 Final-year Data & AI Engineering student @ ESEO<b
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guillaumevr79&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Guillaumevr79&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Guillaumevr79&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Guillaumevr79&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaumevr79&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
